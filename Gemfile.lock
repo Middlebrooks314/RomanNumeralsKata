@@ -1,0 +1,15 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    require_all (3.0.0)
+    ttt_malisa (0.2.6)
+      require_all
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  ttt_malisa
+
+BUNDLED WITH
+   2.1.4
